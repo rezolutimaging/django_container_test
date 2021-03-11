@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'testserver',
-    'localhost'
+    'localhost',
+    '10.8.0.1'
 ]
 
 
